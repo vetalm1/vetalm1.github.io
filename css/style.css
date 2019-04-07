@@ -1419,7 +1419,7 @@ body {
     
     }
     .section-LatestProjects-desc {
-        width: 550px;;
+        width: 330px;;
         font-size: 15px;
         line-height: 25px;
         padding: 0 0 20px 0;
@@ -1427,6 +1427,10 @@ body {
     .section-LatestProjects-nav {display: none;}
     .section-LatestProjects-item-wraper {display: none;}
     .section-VideoPresentation {}
+    .section-VideoPresentation-p {
+        width: 330px;
+        margin: 0 auto;
+    }
     .section-mobile {display: none;}
     .section-statistics {display: none;}
     .section-RecentPosts {}
@@ -1445,7 +1449,7 @@ body {
         justify-content: space-around;
     }
     .section-coop img {
-        width: 100px;
+        width: 70px;
         margin: 0 0 0 0;
     }
     .main-footer {display: none;}
